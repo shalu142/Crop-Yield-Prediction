@@ -7,3 +7,7 @@ folium
 streamlit-folium
 requests
 plotly
+deep-translator
+shapely
+Pillow
+xgboost
